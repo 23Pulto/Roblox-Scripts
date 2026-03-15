@@ -1,33 +1,26 @@
-# Roblox Executor Scripts
+# Nebula Services Script Hub
 
-This repository contains **large single-file Roblox Lua scripts** designed to be run through script executors.
+Welcome to the **Nebula Services Script Hub**.  
+This repository contains large **Roblox Lua scripts** designed to be used with executors. The scripts are written as **single LocalScripts** so they can be easily run without needing multiple files.
 
-These scripts were made mainly for **testing, experimenting, and learning how different Roblox systems work**. Most of the code is written as **one large local script** so it can easily be pasted into an executor and run without needing extra files.
+## Supported Games
+Scripts in this hub may include features for games such as:
 
-## 📂 Contents
-Scripts in this repository may include things like:
+- **99 Nights in the Forest**
+- **Rivals**
+- **Steal a Brainrot**
+- **Murder Mystery 2**
+- **Zee Hood**
 
-- GUI systems  
-- Automation features  
-- Utility functions  
-- Game interaction scripts  
-- Miscellaneous testing tools
+More games and features may be added over time as new scripts are developed.
 
-Each script is usually built as **one standalone LocalScript** so it can run independently.
-
-## ⚠️ Disclaimer
-These scripts are provided for **educational and experimental purposes only**.  
-Use them responsibly and at your own risk.
-
-## 🛠 Requirements
-- A Roblox script executor
-- Basic understanding of Lua
-
-## 📌 Notes
-- Most scripts are **single-file** for simplicity
-- Code may be updated or improved over time
+## Notes
+- Most scripts are written as **one large standalone script**
 - Some scripts may only work in specific games
+- Updates and improvements may be added periodically
 
----
+## Community & Support
+If you need help, want updates, or want access to more scripts, you can join the Discord:
 
-If you're learning Roblox scripting, feel free to read through the code and modify it for your own experiments.
+**Discord:**  
+https://discord.gg/H3KWyw5mBy
