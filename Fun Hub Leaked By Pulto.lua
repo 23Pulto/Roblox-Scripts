@@ -1,3 +1,4 @@
+--Leaked by Cookie hub and uploaded by Pulto
 local UI_OPEN = true
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
